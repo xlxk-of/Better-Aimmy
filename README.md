@@ -1,4 +1,4 @@
-Download the driver here (Exploits LGHUB so it bypasses Fortnite Anticheat) https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer_2021.3.5164.exe
+Download the driver here (Exploits LGHUB so it bypasses Fortnite Anticheat and every other anti cheat) https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer_2021.3.5164.exe
 
 Extract the Better aimmy folder, then run the LGHUB installer.
 
