@@ -3,9 +3,11 @@ Download the driver here (Exploits LGHUB so it bypasses Fortnite Anticheat) http
 Extract the Better aimmy folder, then run the LGHUB installer.
 
 ![image](https://github.com/xlxk-of/Better-Aimmy/assets/83321108/871c0609-2f66-47ad-9a30-3ce3952a6a75)
+
 Click Settings
 
 ![image](https://github.com/xlxk-of/Better-Aimmy/assets/83321108/1765c308-b6cd-40ae-86fb-2d76b972435b)
+
 Turn AUTOMATIC UPDATES OFF
 
 PPI = Pixels Per Inch
